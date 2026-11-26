@@ -1,51 +1,45 @@
 Hi, I'm Saungweme Munyaradzi 👋
 
-Aspiring Cybersecurity Professional | Networking | Network Security
+Aspiring Cybersecurity Professional | Computer Science Graduate
 
 Welcome to my GitHub profile!
 
-I'm an aspiring cybersecurity professional from Zimbabwe, currently building my knowledge and practical skills in networking, cybersecurity, and information technology.
+I'm a Computer Science graduate passionate about cybersecurity, computer networking, and technology. I'm continuously developing my technical skills and building practical projects to strengthen my understanding of information security.
 
-My goal is to develop into an all-round cybersecurity professional through continuous learning, hands-on projects, and practical experience.
+🎯 Current Focus
 
-🎯 Current Learning
+- 🔐 Learning Cybersecurity Fundamentals
+- 🌐 Studying Computer Networking through Cisco Networking Academy
+- 🐍 Developing my Python programming skills
+- 🐧 Learning Linux and command-line fundamentals
+- 🛡️ Exploring Network Security and Information Security
 
-- Cisco Networking Basics – Cisco Networking Academy
-- CCNA 200-301 – In Progress
-- CompTIA Security+ – In Progress
-- Python Programming
+🛠️ Technical Skills
+
+- Programming: Python
+- Networking: TCP/IP, IP Addressing, Networking Fundamentals
+- Operating Systems: Linux, Windows
+- Cybersecurity: Security Fundamentals, Network Security
+
+📚 Currently Learning
+
+- Cisco Networking Basics
+- Cybersecurity Fundamentals
 - Linux Fundamentals
+- Python for Security Automation
 
-💻 Areas of Interest
+🚀 Goals
 
-- Network Security
-- Ethical Hacking
-- Penetration Testing
-- Security Operations Centre (SOC)
-- Digital Forensics
-- Incident Response
-- Cloud Security
-
-🛠️ Technologies I'm Learning
-
-- Networking
-- Python
-- Linux
-- Cisco Packet Tracer
-- Wireshark
-
-🚀 My Projects
-
-I'm currently building my cybersecurity portfolio. My repositories will document my learning journey, practical labs, and security projects.
-
-📚 My Philosophy
-
-I believe in learning by doing, solving real-world problems, and continuously improving my technical skills.
+- Build practical cybersecurity projects.
+- Develop strong networking and Linux skills.
+- Gain hands-on experience with security tools and technologies.
+- Grow into a professional Cybersecurity Analyst.
 
 🤝 Let's Connect
-- 
-- GitHub: https://github.com/MunyaSawez
+
+- LinkedIn: linkedin.com/in/saungweme-munyaradzi
+- Location: Harare, Zimbabwe
 
 ---
 
-Always learning. Always building. Always improving.
+Learning, building, and securing the digital world one project at a time.
